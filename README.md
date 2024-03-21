@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-elv" alt="y-elv" /></a> </p>
 
-- 🔭 I’m currently working on **Tap & Eat**
+- 🔭 I’m currently working on **MedEstudo**
 
 - 🌱 I’m currently learning **Python ,arduino**
 
