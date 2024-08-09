@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-elv" alt="y-elv" /></a> </p>
 
-- 🔭 I’m currently working on **JAva SpringBoot**
+- 🔭 I’m currently working on **Java SpringBoot**
 
 - 🌱 I’m currently learning **Python ,arduino**
 
-- 💬 Ask me about **react, node and C++**
+- 💬 Ask me about **react,java,python,golang,node and C++**
 
 - 📫 How to reach me **mugishaelvis456@gmail.com**
 
