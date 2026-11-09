@@ -1,31 +1,89 @@
-<h1 align="center">Hi 👋, I'm Elvis</h1>
-<h5 align="center" style="font-size: 7px;">Building Intelligent, Secure, and Scalable Digital Solutions Through Software Engineering, AI, and Cybersecurity</h5>
+# 👋 Hi, I'm Elvis Mugisha
 
-I am a results-driven software engineer passionate about solving complex problems and building innovative, scalable, and secure digital solutions. My expertise spans full-stack web and mobile application development, backend engineering, artificial intelligence, cybersecurity, and automation. I have experience developing web applications and REST APIs, designing database schemas, optimizing application performance, and building user-friendly digital experiences. I am also passionate about AI-powered applications, natural language processing, intelligent automation, AI agents, and secure software development. Through continuous learning, research, and hands-on projects, I explore emerging technologies and develop practical solutions to real-world challenges. I value collaboration, knowledge sharing, and innovation, with a strong commitment to advancing technology and creating meaningful digital impact.
+### Software Engineer | Technical Lead | QA & Automation | AI Engineering
+
+I design, build, test and maintain reliable software solutions that solve real-world problems. My work combines software engineering, system architecture, quality assurance, automation and emerging AI technologies.
+
+I enjoy turning complex requirements into scalable applications, improving engineering workflows and building technology that delivers measurable value.
+
+---
+
+## 🚀 Engineering Focus
+
+- 🏗️ **Software Engineering:** Full-stack development, system design, RESTful APIs and scalable application architecture.
+- 🧪 **Quality Assurance:** Software testing, debugging, test planning, defect tracking and quality improvement.
+- ⚙️ **Automation & Scripting:** Python scripting, workflow automation and improving operational efficiency.
+- 🤖 **AI Engineering:** LLM integration, prompt engineering, NLP, embeddings and AI-powered applications.
+- 🔐 **Cybersecurity:** Secure application development, authentication, authorization and identity management.
+- ☁️ **Cloud & DevOps:** Docker, CI/CD, deployment workflows and cloud technologies.
+- 👨‍💻 **Technical Leadership:** Engineering collaboration, problem-solving, code reviews and technical delivery.
+
+## 🛠️ Technology Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI & Quality Engineering**
+
+- Python-based scripting and automation
+- API testing and integration validation
+- Software debugging and defect analysis
+- LLM APIs and AI application development
+- Test planning and quality assurance practices
+- Authentication, authorization and secure coding
+
+---
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=y-elv&label=Profile%20views&color=0e75b6&style=flat" alt="y-elv" /> </p>
+### 🚀 Nexolves
+Technology initiatives focused on software development, AI, cybersecurity, automation and digital innovation.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-elv" alt="y-elv" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Java SpringBoot**
+## 📊 GitHub Activity
 
-- 🌱 I’m currently learning **Python ,arduino**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Y-elv&show_icons=true&hide_border=true&rank_icon=github)
 
-- 💬 Ask me about **react,java,python,golang,node and C++**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-elv&layout=compact&hide_border=true)
 
-- 📫 How to reach me **mugishaelvis456@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elvis-mugisha-331b6b16b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis-mugisha-331b6b16b" height="30" width="40" /></a>
-</p>
+## 🤝 Let's Connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm interested in collaborating on meaningful software engineering projects, AI applications, quality engineering, automation and cybersecurity initiatives.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-elv&show_icons=true&locale=en&layout=compact" alt="y-elv" /></p>
+- 💻 GitHub: [@Y-elv](https://github.com/Y-elv)
+- 🌐 Portfolio: [Nexolves](https://nexolves.netlify.app)
+- 🚀 Open to: Software Engineering | AI Engineering | QA & Automation | Technical Collaboration
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y-elv&show_icons=true&locale=en" alt="y-elv" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y-elv&" alt="y-elv" /></p>
+**"Quality is no coincidence. It is the result of deliberate engineering, continuous improvement and attention to detail."**
