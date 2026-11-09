@@ -70,9 +70,9 @@ Technology initiatives focused on software development, AI, cybersecurity, autom
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Y-elv&show_icons=true&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Y-elv&show_icons=true&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-elv&layout=compact&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Y-elv&layout=compact&hide_border=true)
 
 ---
 
@@ -81,7 +81,7 @@ Technology initiatives focused on software development, AI, cybersecurity, autom
 I'm interested in collaborating on meaningful software engineering projects, AI applications, quality engineering, automation and cybersecurity initiatives.
 
 - 💻 GitHub: [@Y-elv](https://github.com/Y-elv)
-- 🌐 Portfolio: [Nexolves](https://nexolves.netlify.app)
+- 🌐 Portfolio: [Nexolves](https://nexolves.web.app)
 - 🚀 Open to: Software Engineering | AI Engineering | QA & Automation | Technical Collaboration
 
 ---
